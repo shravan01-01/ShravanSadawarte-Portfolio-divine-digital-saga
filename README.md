@@ -117,21 +117,21 @@ An AI-powered career guidance platform that provides:
 📧 Email: shriramsadawarti@gmail.com  
 📱 Phone: 9322293463  
 
-🔗 LinkedIn:  
+🔗LinkedIn:  
 https://www.linkedin.com/in/shravansadawarte/  
 
-🔗 LeetCode:  
+🔗LeetCode:  
 https://leetcode.com/u/shravan-1/  
 
 ---
 
-## ⭐ GitHub Stats
+## ⭐GitHub Stats
 
 > Actively building, learning, and pushing code 🚀  
 
 ---
 
-## ⚡ Final Note
+## ⚡Final Note
 
 > **"Building technology that creates real impact."**
 
@@ -140,7 +140,7 @@ If you're looking for someone who can:
 - Build  
 - Execute  
 
-👉 Let’s connect.
+👉Let’s connect.
 
 ---
 
