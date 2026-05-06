@@ -1,6 +1,6 @@
 # 🚀 Shravan Sadawarte — Portfolio
 
-## 👋 About Me
+## 👋About Me
 Hi, I'm **Shravan Sadawarte**, an AI & Data Science student passionate about building **real-world intelligent systems** that solve meaningful problems.
 
 I specialize in:
@@ -13,7 +13,7 @@ I specialize in:
 
 ---
 
-## 🌟 Portfolio Overview
+## 🌟Portfolio Overview
 This repository represents my personal portfolio showcasing:
 
 - AI-powered applications  
@@ -26,7 +26,7 @@ This repository represents my personal portfolio showcasing:
 
 ---
 
-## 🧠 Tech Stack
+## 🧠Tech Stack
 
 ### 💻 Frontend
 - HTML, CSS, JavaScript  
